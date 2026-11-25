@@ -1,5 +1,6 @@
 # Dapur Kilat — Masak cepat, sajikan tepat!
 
+[![Make the best cooking game](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
 [![Rank](https://make.fun/badge/best-cooking-game-20261125-0137/affan511/makefun-cooking-game/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
 [![Reward](https://make.fun/badge/best-cooking-game-20261125-0137/affan511/makefun-cooking-game/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
 
